@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world 👋
+
+I solve problems by designing and building beautiful digital experiences for both mobile and the web.
 
 <!--
 **Kosai106/Kosai106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
