@@ -1,8 +1,9 @@
-### Hello world 👋
+### Kevin Østerkilde
+Software Engineer on Analytics and Design Systems @ <a href="https://algolia.com/">Algolia</a></p>
 
 I solve problems by designing and building beautiful digital experiences for both mobile and the web.
 
-Find me here: [Website](https://oesterkilde.dk/) | [Twitter](https://twitter.com/kosai106) | [CodeSandbox](https://codesandbox.io/u/Kosai106)
+Find me online: [Website](https://oesterkilde.dk/?utm_source=github&utm_medium=banner&utm_campaign=readme) | [Twitter](https://twitter.com/kosai106) | [Instagram](https://www.instagram.com/kosai106/) | [CodeSandbox](https://codesandbox.io/u/Kosai106)
 
 <!--
 **Kosai106/Kosai106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
