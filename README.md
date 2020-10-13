@@ -1,4 +1,5 @@
-### Kevin Østerkilde
+<img src="/github_banner.png?raw=true" alt="Oesterkilde.dk" width="100%" />
+
 Software Engineer on Analytics and Design Systems @ <a href="https://algolia.com/">Algolia</a></p>
 
 I solve problems by designing and building beautiful digital experiences for both mobile and the web.
