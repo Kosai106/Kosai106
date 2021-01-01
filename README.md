@@ -4,7 +4,13 @@ Software Engineer on Analytics and Design Systems @ <a href="https://algolia.com
 
 I solve problems by designing and building beautiful digital experiences for both mobile and the web.
 
-Find me online: [Website](https://oesterkilde.dk/?utm_source=github&utm_medium=banner&utm_campaign=readme) | [API](https://oesterkilde.dk/api/graphql?query={about{name,website},jobs(filter:{type:{in:["WEB","MOBILE"]}}){company,position,highlights,projects(sort:{startDate:ASC}){name,type,description}}}) | [Twitter](https://twitter.com/kosai106) | [Instagram](https://www.instagram.com/kosai106/) | [CodeSandbox](https://codesandbox.io/u/Kosai106)
+## Current projects
+
+- 🏔 Nordic-UI, a minimal Scandinavian-inspired UI system
+- 🍌 NextBanana, a repository of video game mods and content
+- 🔖 LookBook, to be announced
+
+Find me online: [Website](https://oesterkilde.dk/?utm_source=github&utm_medium=banner&utm_campaign=readme) | [Twitter](https://twitter.com/kosai106) | [Instagram](https://www.instagram.com/kosai106/) | [CodeSandbox](https://codesandbox.io/u/Kosai106) | [LinkedIn](https://linkedin.com/in/oesterkilde)
 
 <!--
 **Kosai106/Kosai106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
