@@ -1,13 +1,18 @@
-<img src="/github_banner.png?raw=true" alt="Oesterkilde.dk" width="100%" />
+![GitHub-Mark-Light](GitHubBannerDark.png?raw=true#gh-dark-mode-only)
+![GitHub-Mark-Dark](GitHubBannerLight.png?raw=true#gh-light-mode-only)
 
-I solve problems by designing and building beautiful digital experiences for both mobile and the web.
+## Current position
 
-Software Engineer on the Dashboard and Design Systems @ <a href="https://algolia.com/">Algolia</a></p>
+Software Engineer on the Dashboard and Design Systems @ [Algolia](https://algolia.com/)
 
 ## Current projects
 
 - 🏔 Nordic-UI, a minimal Scandinavian-inspired UI system
-- 🍌 NextBanana, a repository of video game mods and content
+- 🎮 ModHub, a repository of video game mods and content
 - 🔖 LookBook, to be announced
+- 🗄️ UseBlocks, to be announced
+
+<br />
+<br />
 
 Find me online: [Website](https://oesterkilde.dk/?utm_source=github&utm_medium=banner&utm_campaign=readme) | [Twitter](https://twitter.com/kosai106) | [Instagram](https://www.instagram.com/kosai106/) | [CodeSandbox](https://codesandbox.io/u/Kosai106) | [LinkedIn](https://linkedin.com/in/oesterkilde)
