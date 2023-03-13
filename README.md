@@ -8,7 +8,7 @@ Software Engineer on the Dashboard and Design Systems @ [Algolia](https://algoli
 ## Current projects
 
 - 🏔 Nordic-UI, a minimal Scandinavian-inspired UI system
-- 🎮 ModHub, a repository of video game mods and content
+- 🎮 NextBanana, a repository of video game mods and content
 - 🔖 LookBook, to be announced
 - 🗄️ UseBlocks, to be announced
 
