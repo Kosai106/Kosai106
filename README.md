@@ -3,7 +3,7 @@
 
 ## Current position
 
-Software Engineer on the Dashboard and Design Systems @ [Algolia](https://algolia.com/)
+Software Engineer on the Dashboard Platform and Design Systems team @ [Algolia](https://algolia.com/)
 
 ## Current projects
 
