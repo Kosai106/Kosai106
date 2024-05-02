@@ -9,8 +9,7 @@ Senior Software Engineer building Design Systems and complex web UIs.
 
 - 🏔 Nordic-UI, a minimal Scandinavian-inspired UI system
 - 🎮 NextBanana, a repository of video game mods and content
-- 🔖 LookBook, to be announced
-- 🗄️ UseBlocks, to be announced
+- ⏳ To be announced
 
 <br />
 <br />
